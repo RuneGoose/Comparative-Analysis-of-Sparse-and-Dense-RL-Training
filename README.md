@@ -11,7 +11,7 @@ To run on Zaratan:
       9. main_job.sh
 2. Change epochs in "training_main.py" to test out a quick run
 3. if running a batch job, main_job.sh will set up venv and run training
-4. if using on-deman bash, run the following commands:
+4. if using on-demand bash, run the following commands:
 
        srun --partition=gpu --gpus=a100_1g.5gb:1 --time=03:00:00 --mem=16G --pty bash
        module load python/3.10.10/gcc/11.3.0/nocuda/linux-rhel8-zen2
