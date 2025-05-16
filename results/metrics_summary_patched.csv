@@ -1,0 +1,5 @@
+mode,Training time (s),CPU Current Memory,CPU Peak Memory,CPU RSS,GPU Allocated Memory,GPU Reserved Memory,GPU Max Allocated Memory,GPU Max Reserved Memory,Final moving average score
+dense32,5494.26,1226.14,1227.92,2896.88,24.99,1050.67,899.19,1050.67,17.92
+dense64,5316.97,1226.19,1228.13,2677.89,31.44,2065.69,1777.88,2065.69,17.39
+sparse32,6099.5,1226.51,1227.99,2666.01,24.99,1050.67,899.19,1050.67,12.61
+sparse64,6673.13,1226.43,1228.07,2419.11,31.9,2065.69,1777.88,2065.69,14.98

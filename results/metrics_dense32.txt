@@ -1,0 +1,9 @@
+Training time (s): 5494.26
+CPU Current Memory (MB): 1226.14
+CPU Peak Memory (MB): 1227.92
+CPU RSS (MB): 2896.88
+GPU Allocated Memory (MB): 24.99
+GPU Reserved Memory (MB): 1050.67
+GPU Max Allocated Memory (MB): 899.19
+GPU Max Reserved Memory (MB): 1050.67
+Final moving average score: 17.92
